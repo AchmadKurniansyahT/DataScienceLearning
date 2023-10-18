@@ -20,9 +20,9 @@ Prosesnya akan didokumentasikan secara clear dalam bentuk notebook. Setiap waktu
 8. Supervised Learning (Klasifikasi) & Evaluation Metrics
 9. Supervised Learning (Regresi) & Evaluation Metrics
 10. Unsupervised Learning (Clustering)
-11. Content Based Recommendation System
+11. Content-Based Recommendation System
 12. Streamlit for Model Deployment
 
-**Expected Output**
+**Expected Output : **
 
 Besar harapannya, repo ini dapat memberikan gambaran bagaimana flow dari Data Science itu sendiri baik dari segi konsep dan juga code. Jika nantinya ada saran, kritik dan masukan, feel free untuk meninggalkan jejak.
